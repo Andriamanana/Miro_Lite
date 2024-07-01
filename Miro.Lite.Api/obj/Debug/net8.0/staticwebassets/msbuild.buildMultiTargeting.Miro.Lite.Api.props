@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Miro.Lite.Api.props" />
+</Project>
